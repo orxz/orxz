@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @orxz
 - 👀 I’m interested in open source
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on dev
 - 📫 How to reach me orxzcn@gmail.com
 
 <!---
